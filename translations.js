@@ -24,7 +24,7 @@ const translations = {
         "sections.contact": "İletişim",
         
         // About
-        "about.text1": "Ben Yunus Emir Eskikara, 2002 Gaziantep doğumluyum. Hasan Kalyoncu Üniversitesi Bilgisayar Mühendisliği (İngilizce) bölümünden mezun oldum. Üniversite hayatım boyunca birçok öğrenci kulübünde aktif görev aldım ve Google Developer Student Clubs (GDSC) topluluğunun liderliğini yaptım.",
+        "about.text1": "Ben Yunus Emir Eşkikara, 2002 Gaziantep doğumluyum. Hasan Kalyoncu Üniversitesi Bilgisayar Mühendisliği (İngilizce) bölümünden mezun oldum. Üniversite hayatım boyunca birçok öğrenci kulübünde aktif görev aldım ve Google Developer Student Clubs (GDSC) topluluğunun liderliğini yaptım.",
         "about.text2": "Kotlin, Python, C#, C++, JavaScript, Arduino ve robotik alanlarında deneyimliyim. Hem bireysel hem de ekip çalışmalarında yer alarak teknik, liderlik ve problem çözme becerilerimi geliştirdim. Hedefim yazılım ve mühendislik alanında kendimi sürekli geliştirerek yenilikçi projelere katkı sağlamaktır.",
         
         // Stats
@@ -123,7 +123,7 @@ const translations = {
         "sections.contact": "Contact",
         
         // About
-        "about.text1": "I am Yunus Emir Eskikara, born in 2002 in Gaziantep. I graduated from Hasan Kalyoncu University Computer Engineering (English) department. Throughout my university life, I took active roles in many student clubs and led the Google Developer Student Clubs (GDSC) community.",
+        "about.text1": "I am Yunus Emir Eşkikara, born in 2002 in Gaziantep. I graduated from Hasan Kalyoncu University Computer Engineering (English) department. Throughout my university life, I took active roles in many student clubs and led the Google Developer Student Clubs (GDSC) community.",
         "about.text2": "I am experienced in Kotlin, Python, C#, C++, JavaScript, Arduino and robotics. I have developed my technical, leadership and problem-solving skills by participating in both individual and team work. My goal is to continuously improve myself in software and engineering and contribute to innovative projects.",
         
         // Stats
@@ -222,7 +222,7 @@ const translations = {
         "sections.contact": "Kontakt",
         
         // About
-        "about.text1": "Ich bin Yunus Emir Eskikara, geboren 2002 in Gaziantep. Ich habe meinen Abschluss an der Hasan Kalyoncu Universität im Fach Informatik (Englisch) gemacht. Während meines Universitätslebens habe ich in vielen Studentenclubs aktiv mitgewirkt und die Google Developer Student Clubs (GDSC) Community geleitet.",
+        "about.text1": "Ich bin Yunus Emir Eşkikara, geboren 2002 in Gaziantep. Ich habe meinen Abschluss an der Hasan Kalyoncu Universität im Fach Informatik (Englisch) gemacht. Während meines Universitätslebens habe ich in vielen Studentenclubs aktiv mitgewirkt und die Google Developer Student Clubs (GDSC) Community geleitet.",
         "about.text2": "Ich habe Erfahrung in Kotlin, Python, C#, C++, JavaScript, Arduino und Robotik. Ich habe meine technischen, Führungs- und Problemlösungsfähigkeiten durch die Teilnahme an individuellen und Teamarbeiten entwickelt. Mein Ziel ist es, mich kontinuierlich in Software und Ingenieurwesen zu verbessern und zu innovativen Projekten beizutragen.",
         
         // Stats
